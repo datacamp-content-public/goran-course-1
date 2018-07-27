@@ -77,7 +77,7 @@ key: 960e1e1889
 
 
 Hey Nick ok this  live
-
+da
 - instruction
 - instruction
 - instruction- instruction
@@ -97,6 +97,33 @@ d
 asd
 as
 da
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
 
 
 `@sct`
