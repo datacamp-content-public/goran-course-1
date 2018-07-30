@@ -3,7 +3,7 @@
   description: "Test"
 ---
 
-## An exercise title written in sentence case
+## 2
 
 ```yaml
 type: NormalExercise 
@@ -67,7 +67,7 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 ---
 
-## Insert exercise title here
+## 1
 
 ```yaml
 type: NormalExercise 
