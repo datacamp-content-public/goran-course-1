@@ -150,3 +150,157 @@ key: a6c5670169
 
 
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise 
+xp: 100 
+key: d1ed79bc76   
+```
+
+
+
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+***
+
+
+
+```yaml
+type: NormalExercise 
+xp: 35 
+key: 932efbe8b5   
+```
+
+
+
+
+
+`@instructions`
+2
+
+`@hint`
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise 
+xp: 35 
+key: 7623fd22c7   
+```
+
+
+
+
+
+`@instructions`
+1
+
+`@hint`
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise 
+xp: 30 
+key: 710d0f4bba   
+```
+
+
+
+
+
+`@instructions`
+3
+
+`@hint`
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
