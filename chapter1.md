@@ -67,6 +67,18 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 76c9e3f677   
+```
+
+`@projector_key`
+d453f4baed6ff440bec6d1c0bc9a9df4
+---
+
 ## 1
 
 ```yaml
@@ -99,33 +111,6 @@ as
 da
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{python}
-
-```
-
-
-`@solution`
-
-```{python}
-
-```
-
-
 `@sct`
 
 ```{python}
@@ -152,18 +137,6 @@ as
 da
 ```
 
----
-
-## Insert exercise title here
-
-```yaml
-type: VideoExercise 
-xp: 50 
-key: 76c9e3f677   
-```
-
-`@projector_key`
-d453f4baed6ff440bec6d1c0bc9a9df4
 ---
 
 ## Insert exercise title here
