@@ -82,7 +82,7 @@ key: 960e1e1889
 xp: 100
 ```
 
-Hey Nick ok this  live
+Hey goran ok this  live
 da
 - instruction
 - instruction
@@ -94,7 +94,7 @@ da
 - instruction
 - instruction
 
-nick
+goran
 
 dsa
 das
