@@ -1,19 +1,17 @@
 ---
-  title: "2"
-  description: ""
+title: '2'
+description: ""
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: bbe2a6e243   
+type: NormalExercise
+key: bbe2a6e243
+xp: 100
 ```
 
-
 nicka
-
 
 `@instructions`
 dsadas
@@ -22,72 +20,54 @@ dsadas
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise 
-xp: 100 
-key: beae7c65c7   
+type: TabExercise
+key: beae7c65c7
+xp: 100
 ```
 
-
 nick
-
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 50 
-key: aea726526d   
+type: NormalExercise
+key: aea726526d
+xp: 50
 ```
-
-
 
 
 
@@ -98,38 +78,27 @@ nick
 
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
-
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 50 
-key: 19d1bb6290   
+type: NormalExercise
+key: 19d1bb6290
+xp: 50
 ```
-
-
 
 
 
@@ -140,23 +109,16 @@ nick
 
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
-

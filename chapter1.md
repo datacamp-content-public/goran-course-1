@@ -1,22 +1,20 @@
 ---
-  title: "Test"
-  description: "Test"
+title: Test
+description: Test
 ---
 
 ## 2
 
 ```yaml
-type: NormalExercise 
+type: NormalExercise
+key: b414e5d252
 lang: python
-xp: 100 
+xp: 100
 skills: 2
-key: b414e5d252   
 ```
-
 
 This is the assignment text. It should help provide students with the background information needed.
 The instructions that follow should be in bullet point form dawith clear guidance for what is expected.
-
 
 `@instructions`
 - Instruction 1
@@ -30,13 +28,11 @@ The instructions that follow should be in bullet point form dawith clear guidanc
 - Typically one hint per instruction is a sensible amount.
 
 `@pre_exercise_code`
-
 ```{python}
 # Load datasets and packages here.
 ```
 
 `@sample_code`
-
 ```{python}
 # Your
 # sample
@@ -50,7 +46,6 @@ The instructions that follow should be in bullet point form dawith clear guidanc
 ```
 
 `@solution`
-
 ```{python}
 # Answer goes here
 # Make sure to match the comments with your sample code
@@ -59,7 +54,6 @@ The instructions that follow should be in bullet point form dawith clear guidanc
 ```
 
 `@sct`
-
 ```{python}
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
@@ -70,23 +64,23 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 76c9e3f677   
+type: VideoExercise
+key: 76c9e3f677
+xp: 50
 ```
 
 `@projector_key`
 d453f4baed6ff440bec6d1c0bc9a9df4
+
 ---
 
 ## 1
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 960e1e1889   
+type: NormalExercise
+key: 960e1e1889
+xp: 100
 ```
-
 
 Hey Nick ok this  live
 da
@@ -110,9 +104,7 @@ asd
 as
 da
 
-
 `@sct`
-
 ```{python}
 Hey Nick ok this  live
 
@@ -142,12 +134,10 @@ da
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: a6c5670169   
+type: NormalExercise
+key: a6c5670169
+xp: 100
 ```
-
-
 
 
 
@@ -156,40 +146,30 @@ key: a6c5670169
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise 
-xp: 100 
-key: d1ed79bc76   
+type: TabExercise
+key: d1ed79bc76
+xp: 100
 ```
-
-
 
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 35 
-key: 932efbe8b5   
+type: NormalExercise
+key: 932efbe8b5
+xp: 35
 ```
-
-
 
 
 
@@ -200,38 +180,27 @@ key: 932efbe8b5
 
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
-
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 35 
-key: 7623fd22c7   
+type: NormalExercise
+key: 7623fd22c7
+xp: 35
 ```
-
-
 
 
 
@@ -242,38 +211,27 @@ key: 7623fd22c7
 
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
-
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 30 
-key: 710d0f4bba   
+type: NormalExercise
+key: 710d0f4bba
+xp: 30
 ```
-
-
 
 
 
@@ -284,23 +242,16 @@ key: 710d0f4bba
 
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
-
