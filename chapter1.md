@@ -255,3 +255,13 @@ xp: 30
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 76c9e3f671
+xp: 50
+```
