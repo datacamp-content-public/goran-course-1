@@ -118,3 +118,31 @@ nick
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 95f6a68ee3
+xp: 50
+```
+
+hello
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
