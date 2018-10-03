@@ -69,8 +69,6 @@ key: aea726526d
 xp: 50
 ```
 
-
-
 `@instructions`
 nick
 
@@ -99,8 +97,6 @@ type: NormalExercise
 key: 19d1bb6290
 xp: 50
 ```
-
-
 
 `@instructions`
 nick

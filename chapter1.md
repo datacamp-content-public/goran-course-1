@@ -104,6 +104,27 @@ asd
 as
 da
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
 `@sct`
 ```{python}
 Hey Nick ok this  live
@@ -141,6 +162,32 @@ xp: 100
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -171,8 +218,6 @@ key: 932efbe8b5
 xp: 35
 ```
 
-
-
 `@instructions`
 2
 
@@ -202,8 +247,6 @@ key: 7623fd22c7
 xp: 35
 ```
 
-
-
 `@instructions`
 1
 
@@ -232,8 +275,6 @@ type: NormalExercise
 key: 710d0f4bba
 xp: 30
 ```
-
-
 
 `@instructions`
 3
