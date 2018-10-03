@@ -131,7 +131,7 @@ xp: 50
 
 hello
 
-`@possible_answers`
+`@instructions`
 - 1234567890
 - 1234567890
 - 1234567890
